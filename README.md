@@ -3,7 +3,7 @@
 
 I'm a 22 years old master student at Delft University of Technology.
 
-AI and algorithms enthusiast. I've worked on both group and individual projects in the fields of distributed machine learning, computer vision and |robotics.
+AI and algorithms enthusiast. I've worked on both group and individual projects in the fields of distributed machine learning, computer vision and robotics.
 
 I am currently working part-time for the Lunar Zebro moon mission as an AI engineer. 
 
