@@ -1,18 +1,13 @@
 # Roberto Gheda
-## CS MSc @ TU Delft | AI Engineer @ Lunar Zebro
+## CS MSc @ TU Delft
 
-I'm a 22 years old master student at Delft University of Technology.
+I'm a 23 years old master student at Delft University of Technology.
 
 AI and algorithms enthusiast. I've worked on both group and individual projects in the fields of distributed machine learning, computer vision and robotics.
-
-I am currently working part-time for the Lunar Zebro moon mission as an AI engineer. 
 
 <div id="badges">
 <a href="https://www.linkedin.com/in/r-gheda/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn Badge"/>
-</a>
-<a href="https://zebro.space">
-    <img src="https://img.shields.io/badge/Lunar_Zebro-grey?style=for-the-badge" height="30">
 </a>
 </div> 
 
