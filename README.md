@@ -7,7 +7,7 @@ AI and algorithms enthusiast. I've worked on both group and individual projects 
 ### 📫 Connect with me:
 [<img align="left" alt="CogSP | LinkedIn" width="50px" style="color:red" src="linkedin_logo.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/simone-palumbo2001
+[linkedin]: https://www.linkedin.com/in/r-gheda
 
 
 
