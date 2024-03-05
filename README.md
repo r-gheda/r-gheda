@@ -5,11 +5,9 @@ I'm a 23 years old master student at Delft University of Technology.
 
 AI and algorithms enthusiast. I've worked on both group and individual projects in the fields of distributed machine learning, computer vision and robotics.
 
-<div id="badges">
-<a href="https://www.linkedin.com/in/r-gheda/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn Badge"/>
-</a>
-</div> 
+[<img align="left" alt="CogSP | LinkedIn" width="50px" style="color:red" src="linkedin_logo.svg" />][linkedin]
+[linkedin]: https://www.linkedin.com/in/simone-palumbo2001
+
 
 
 <!--
