@@ -5,7 +5,7 @@ I'm a 23 years old master student at Delft University of Technology.
 
 AI and algorithms enthusiast. I've worked on both group and individual projects in the fields of distributed machine learning, computer vision and robotics.
 ### 📫 Connect with me:
-[<img align="left" alt="CogSP | LinkedIn" width="50px" style="color:red" src="linkedin_logo.svg" />][linkedin]
+[<img align="left" alt="CogSP | LinkedIn" width="70px" style="color:red" src="linkedin_logo.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/r-gheda
 
