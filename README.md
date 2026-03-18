@@ -1,9 +1,9 @@
 # Roberto Gheda
-## CS MSc @ TU Delft
+## PhD Candidate @ TU Delft
 
-I'm a 23 years old master student at Delft University of Technology.
+I'm a PhD candidate at Delft University of Technology in Machine Learning and Network Science.
+Check my up to date list of publications on [my website](https://r-gheda.github.io/).
 
-AI and algorithms enthusiast. I've worked on both group and individual projects in the fields of distributed machine learning, computer vision and robotics.
 ### 📫 Connect with me:
 [<img align="left" alt="CogSP | LinkedIn" width="70px" style="color:red" src="linkedin_logo.svg" />][linkedin]
 
