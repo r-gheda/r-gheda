@@ -5,8 +5,10 @@ I'm a PhD candidate at Delft University of Technology in Machine Learning and Ne
 Check my up to date list of publications on [my website](https://r-gheda.github.io/).
 
 ### 📫 Connect with me:
-[<img align="left" alt="CogSP | LinkedIn" width="70px" style="color:red" src="linkedin_logo.svg" />][linkedin]
+[<img align="left" alt="CogSP | LinkedIn" width="70px" style="color:red" src="icons8-google-100.png" />][scholar]
+[<img align="left" alt="CogSP | LinkedIn" width="70px" style="color:red" src="icons8-linkedin-100.png" />][linkedin]
 
+[scholar]: https://scholar.google.com/citations?user=s98zPNAAAAAJ
 [linkedin]: https://www.linkedin.com/in/r-gheda
 
 
