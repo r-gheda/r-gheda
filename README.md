@@ -2,7 +2,8 @@
 ## PhD Candidate @ TU Delft
 
 I'm a PhD candidate at Delft University of Technology in Machine Learning and Network Science.
-Check my up to date list of publications on [my website](https://r-gheda.github.io/).
+
+Up to date list of publications is available on [my website](https://r-gheda.github.io/).
 
 ### 📫 Connect with me:
 [<img align="left" alt="CogSP | LinkedIn" width="70px" style="color:red" src="icons8-google-100.png" />][scholar]
